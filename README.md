@@ -1,6 +1,6 @@
 # p2DanielStephens
 
-Presentation Page: https://danielstephens1.github.io/p2.DanielStephens/
+Presentation Page: https://danielstephens1.github.io/p2DanielStephens/
 
 YouTube link: https://www.youtube.com/embed/0qH5cIrg55c
 
